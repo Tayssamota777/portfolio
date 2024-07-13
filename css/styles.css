@@ -1,0 +1,18 @@
+.meu-bg{
+    background-image: url(../img/capa.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+    background-position: 60% 0%;
+    height: 100vh;
+    background-attachment: fixed;
+}
+
+.card{
+    width: 18rem;
+}
+
+#portfolio img{
+    height: 360px;
+    object-fit: cover;
+}
